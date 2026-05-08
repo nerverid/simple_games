@@ -1,3 +1,7 @@
+use std::io;
+use rand::Rng;
+
 fn main() {
-    println!("Hello, world!");
+    println!("Guess the number!");
+
 }
